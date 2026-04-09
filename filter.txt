@@ -12,6 +12,7 @@ lobste.rs##[href="/comments"]
 nitter.net##.replies
 nitter.net##.tweet-stats > .tweet-stat:first-child
 
+
 ! English tech news
 9to5linux.com##.comments-link
 9to5linux.com##.comments-area
@@ -21,6 +22,11 @@ www.omgubuntu.co.uk###comments > div > div
 www.phoronix.com##a[href^="/forums/node/"]
 
 www.ghacks.net###comments
+
+www.gamingonlinux.com##.comments.box
+www.gamingonlinux.com##.rules-reminder.group.body
+www.gamingonlinux.com##.social-media-comments.group.body
+www.gamingonlinux.com##.comments-pip
 
 
 ! Dutch tech news
@@ -35,16 +41,6 @@ www.security.nl##.reply_controls_container
 www.security.nl##.markup_example_container
 www.security.nl##.topgap.category_news.posting_header
 
-www.omgubuntu.co.uk###comments > div > div
-
-www.phoronix.com##a[href^="/forums/node/"]
-
-www.ghacks.net###comments
-
-www.gamingonlinux.com##.comments.box
-www.gamingonlinux.com##.rules-reminder.group.body
-www.gamingonlinux.com##.social-media-comments.group.body
-www.gamingonlinux.com##.meta > .comments-pip
 
 ! Dutch general news
 www.nu.nl##.nujij
