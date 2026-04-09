@@ -1,0 +1,59 @@
+! Title: No comments
+! Expires: 1 day
+
+! Social media
+! Reddit
+redlib.catsarch.com###commentQueryForms
+redlib.catsarch.com##.comment
+redlib.catsarch.com##.post_footer
+
+! Lobste.rs
+lobste.rs##.comments1.comments > li.comments_subtree
+lobste.rs##[href="/comments"]
+
+
+! Tech news
+! 9to5linux
+9to5linux.com##.comments-link
+9to5linux.com##.comments-area
+
+! Tweakers
+tweakers.net##.reacties-inner
+
+! security.nl
+www.security.nl###replies
+www.security.nl##.topgap.category_background.posting_header
+www.security.nl##.nowrap
+www.security.nl##.reply.posting_list
+www.security.nl##.reply_controls_container
+www.security.nl##.markup_example_container
+www.security.nl##.topgap.category_news.posting_header
+
+! omgubuntu
+www.omgubuntu.co.uk###comments > div > div
+
+! phoronix
+www.phoronix.com##a[href^="/forums/node/"]
+
+! ghacks
+www.ghacks.net###comments
+
+
+! Dutch news
+! nu.nl
+www.nu.nl##.nujij
+
+
+! Video
+! YouTube
+www.youtube.com###comments > .ytd-comments.style-scope
+
+! Invidious
+invidious.tiekoetter.com##.comments
+
+! Odysee
+odysee.com##.card.comment__list.card--enable-overflow
+
+! Peertube
+tube.linkse.media##.video-info > .pt-3.border-top > div
+
