@@ -44,6 +44,7 @@ www.ghacks.net###comments
 www.gamingonlinux.com##.comments.box
 www.gamingonlinux.com##.rules-reminder.group.body
 www.gamingonlinux.com##.social-media-comments.group.body
+www.gamingonlinux.com##.meta > .comments-pip
 
 ! Dutch general news
 www.nu.nl##.nujij
