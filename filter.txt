@@ -9,6 +9,8 @@ redlib.catsarch.com##.post_footer
 lobste.rs##.comments1.comments > li.comments_subtree
 lobste.rs##[href="/comments"]
 
+nitter.net##.replies
+nitter.net##.tweet-stats > .tweet-stat:first-child
 
 ! English tech news
 9to5linux.com##.comments-link
