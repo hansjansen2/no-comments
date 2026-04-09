@@ -25,6 +25,7 @@ www.ghacks.net###comments
 
 ! Dutch tech news
 tweakers.net##.reacties-inner
+tweakers.net##.comment-counter
 
 www.security.nl###replies
 www.security.nl##.topgap.category_background.posting_header
