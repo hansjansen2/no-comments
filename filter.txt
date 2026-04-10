@@ -55,3 +55,7 @@ odysee.com##.card.comment__list.card--enable-overflow
 
 tube.linkse.media##.video-info > .pt-3.border-top > div
 
+rumble.com###video-comments
+rumble.com##.relative.chat
+rumble.com##.media-page-chat-aside-chat-wrapper-fixed
+rumble.com##div:nth-of-type(4) > .media-by-actions-button.round-button
