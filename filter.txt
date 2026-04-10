@@ -45,7 +45,8 @@ www.security.nl##.childcount
 
 ! Dutch general news
 www.nu.nl##.nujij
-
+www.nu.nl##.article-meta__nujij-link.comments-link.branded.app-button--nowrap.app-button--inversed.app-button
+www.nu.nl##.featured-comments.blocks-container-featured-comments
 
 ! Video
 www.youtube.com###comments > .ytd-comments.style-scope
