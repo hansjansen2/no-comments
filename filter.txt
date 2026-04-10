@@ -40,6 +40,7 @@ www.security.nl##.reply.posting_list
 www.security.nl##.reply_controls_container
 www.security.nl##.markup_example_container
 www.security.nl##.topgap.category_news.posting_header
+www.security.nl##.childcount
 
 
 ! Dutch general news
