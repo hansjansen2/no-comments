@@ -8,6 +8,7 @@ redlib.catsarch.com##.post_footer
 
 lobste.rs##.comments1.comments > li.comments_subtree
 lobste.rs##[href="/comments"]
+lobste.rs##.comments_label
 
 news.ycombinator.com##.comment-tree
 news.ycombinator.com##.fatitem form
